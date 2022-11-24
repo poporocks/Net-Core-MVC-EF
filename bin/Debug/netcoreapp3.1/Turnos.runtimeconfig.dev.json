@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Poporocks\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Poporocks\\.nuget\\packages"
+    ]
+  }
+}
